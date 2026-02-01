@@ -1,0 +1,1 @@
+package entitiesclass Todo(    var id: Int = 0,    var title: String = "",    var finished: Boolean = false)
